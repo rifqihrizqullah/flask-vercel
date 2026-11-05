@@ -18,8 +18,8 @@ def portal():
 
     data = {
         "layanan": "Portal PMB Universitas Teknologi Muhammadiyah",
-        "nama": "Revito Rifqy Suherman",
-        "nim": "2401600006",
+        "nama": "Rifqih Rizqullah",
+        "nim": "2401600008",
         "gelombang": os.environ.get("GELOMBANG", "Gelombang 1"),
         "pengumuman": os.environ.get("PENGUMUMAN", "Pendaftaran gelombang 1 dibuka"),
         "versi": os.environ.get("VERSI", "v1"),
